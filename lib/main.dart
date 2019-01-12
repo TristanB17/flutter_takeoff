@@ -8,7 +8,7 @@ void main(){
       floatingActionButton: FloatingActionButton(
         backgroundColor: barColor,
         onPressed:((){}),
-        child: Icon(Icons.public),
+        child: Icon(Icons.public, color: const Color(0xFFFEFEFE)),
       ),
       backgroundColor: bgColor,
       appBar: AppBar(

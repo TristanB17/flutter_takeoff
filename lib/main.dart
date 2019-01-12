@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+//textcolor found on docs
 
 void main(){
   var barColor = const Color(0xFFDF3B18);
